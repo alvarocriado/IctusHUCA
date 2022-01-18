@@ -1,0 +1,23 @@
+   {
+    "name": "IctusHUCA",
+    "short_name": "IctusHUCA",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhu8fQXZnIm_JjE5jmfchFSwZZohDOpYSJYCsPCfCtYfHCI3-jTRRiDwBN-NgapUB70RznLl-ObQAs9bef1wKj61xXwC8Pi3Rmj0WVoRuHTx95Fp9WKUF0mW-hRn31RQzxpch9qL4VWJ7P3bFedbPPjCwcqJPiwtzhHluVUTK4vdqdE6AzdVj0d_WihBg",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjf6x6svENVHljZzq57358vTy3X3qJaPBDaQYeGqKRQ1VyC-F4bZ70vjbyvx1CLk2PkKYBYe3aLTjmraeev4J5TeEvhjNF6gTWITDjOuLjCnftAhrwxmZveraeEGj0NOo4S5LuWWosVec-_QGHa5ujy5iaR9Vwgn2QRxIY5th_AJSiJZjjIfNKOWA7FWA=s320",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://protoictushuca.blogspot.com/p/indice-de-los-protocolos.html"
+}
